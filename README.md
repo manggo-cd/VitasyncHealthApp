@@ -1,3 +1,6 @@
+<img width="498" alt="Screenshot 2025-03-29 at 4 02 53 PM" src="https://github.com/user-attachments/assets/ff91edb1-cfcd-4c0a-95b9-3d105b44d0ea" />
+<img width="498" alt="Screenshot 2025-03-29 at 4 03 07 PM" src="https://github.com/user-attachments/assets/099de344-b201-48e4-8fdd-b8dc861f03e9" />
+
 # VitaSync- A Personalized Health and Fitness Application
 
 ## A Fitness-Workout Tracker & Macro Planner/ Meal Library Combined.
