@@ -1,0 +1,35 @@
+{
+    "name": "My VitaSync Data",
+    "workouts": [
+      {
+        "date": "2025-01-01",
+        "exercises": [
+          {
+            "name": "Push Ups",
+            "sets": [
+              {
+                "targetReps": 10,
+                "completedReps": 10
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "meals": [
+      {
+        "name": "Oatmeal",
+        "protein": 10,
+        "carbs": 30,
+        "fat": 5
+      }
+    ],
+    "recipes": [
+      {
+        "name": "Alfredo Pasta",
+        "ingredients": ["pasta", "cream", "cheese"],
+        "instructions": "Boil pasta. Make sauce. Combine."
+      }
+    ]
+  }
+  

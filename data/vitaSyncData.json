@@ -1,0 +1,13 @@
+{
+    "recipes": [{
+        "instructions": "Add guac on the bread",
+        "name": "Guacamole Toast",
+        "ingredients": [
+            "Guac",
+            "Bread"
+        ]
+    }],
+    "workouts": [],
+    "name": "My VitaSync Data",
+    "meals": []
+}
